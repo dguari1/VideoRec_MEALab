@@ -1,0 +1,11 @@
+# pre-filled information recorded from user
+CameraCodex: copy
+CameraFPS: '90'
+CameraHeight: '720'
+CameraID: '"Logitech BRIO"'
+CameraIndex: 0
+CameraWidth: '1280'
+FFMPEGLocateFolder: 
+MicrophoneID: '"Microphone (Yeti Stereo Microphone)"'
+MicrophoneIndex: 0
+MicrophoneRate: '44100'
