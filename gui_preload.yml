@@ -5,7 +5,7 @@ CameraHeight: '720'
 CameraID: '"Logitech BRIO"'
 CameraIndex: 0
 CameraWidth: '1280'
-FFMPEGLocateFolder: 
+FFMPEGLocateFolder: ''
 MicrophoneID: '"Microphone (Yeti Stereo Microphone)"'
 MicrophoneIndex: 0
 MicrophoneRate: '44100'
